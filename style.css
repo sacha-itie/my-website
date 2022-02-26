@@ -1,0 +1,104 @@
+style.css
+body{
+	color: black;
+	font-family: fantasy serif;
+	font-size: 30px;
+	line-height: 1,2;
+	letter-spacing: 2px;
+}
+
+body{
+	background:#f2e7fb;
+}
+
+
+
+h1 {
+	color: #9e7fdc;
+	font-family:monospace serif;
+	text-align: center;
+	border-size:  200px;
+	padding-bottom: 15px;
+}
+
+
+h2 {
+	color: #87ad8e ;
+	text-align: center;
+	font-weight: 100;
+	font-family: font-variant: small-caps;
+	font-size: 24px;
+}
+
+
+p{
+	text-align: center;
+	color: black;
+	padding-bottom: 10px;
+}
+
+.justifier{
+	text-align: justify;
+}
+
+
+.box-white {
+  margin: 20px 0px;
+  padding: 40px;
+  background: white;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  border-radius: 4px;
+}
+
+.list-inline{
+	font-size: 32px;
+	text-align: center;
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li{
+	display: inline;
+	padding: 40px;
+	c
+}
+
+#profile {
+	border-radius: 20%;
+	padding-bottom: 10px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+
+
+.button{
+	background-color: #87ad8e;
+	border-radius: 4px;
+	padding: 7px 10px;
+}
+
+.button:hover {
+	background-color: #7d9e83;
+}
+
+.container{
+	width: 700px;
+	margin: 40px auto;
+}
+
+.fa-solid{
+	color: black;
+}
+
+.socialmedia-button{
+	color: #9e7fdc;
+}
+
+.socialmedia-button:hover {
+	color: #a868be;
+}
